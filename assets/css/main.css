@@ -111,13 +111,13 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #1A936F;
+		color: #14CEAC;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #1A936F !important;
+			color: #14CEAC !important;
 			text-decoration: none;
 		}
 
@@ -1841,7 +1841,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #1A936F;
+			border-color: #14CEAC;
 		}
 
 	select {
@@ -1941,7 +1941,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #1A936F;
+			border-color: #14CEAC;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2443,8 +2443,8 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			border-color: #1A936F;
-			color: #1A936F !important;
+			border-color: #14CEAC;
+			color: #14CEAC !important;
 		}
 
 		input[type="submit"]:active,
@@ -2452,8 +2452,8 @@ input, select, textarea {
 		input[type="button"]:active,
 		.button:active {
 			background-color: rgba(73, 191, 157, 0.1);
-			border-color: #1A936F;
-			color: #1A936F !important;
+			border-color: #14CEAC;
+			color: #14CEAC !important;
 		}
 
 		input[type="submit"].icon,
@@ -2496,8 +2496,8 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #1A936F;
-			border-color: #1A936F;
+			background-color: #14CEAC;
+			border-color: #14CEAC;
 			color: #ffffff !important;
 		}
 
@@ -2505,8 +2505,8 @@ input, select, textarea {
 			input[type="reset"].primary:hover,
 			input[type="button"].primary:hover,
 			.button.primary:hover {
-				background-color: #5cc6a7;
-				border-color: #5cc6a7;
+				background-color: #19FFD4;
+				border-color: #19FFD4;
 			}
 
 			input[type="submit"].primary:active,
